@@ -10,7 +10,7 @@ Team Bd Cyber Ninja Offical CEO or Admin GhostTrack Tool is a powerful and versa
 
 Screenshots
 ----
-# SQLMAP TOOL....
+# 
 ![Screenshot](https://d.top4top.io/p_3321bpyu81.jpg)
 
 
